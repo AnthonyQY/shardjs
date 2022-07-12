@@ -1,11 +1,22 @@
 {
   "name": "shardjs",
-  "version": "1.1.0",
-  "description": "A package for splitting large files into smaller shards.",
+  "version": "1.1.2",
+  "description": "A tiny NPM package for splitting and recombining data.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyQY/shardjs.git"
+  },
+  "keywords": [
+    "split"
+  ],
   "author": "LoliTek",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnthonyQY/shardjs/issues"
+  },
+  "homepage": "https://github.com/AnthonyQY/shardjs#readme"
 }
