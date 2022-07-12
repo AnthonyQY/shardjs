@@ -1,5 +1,9 @@
-# shardjs
-<div align="left">
+
+<p align="center">
+ <img width="400" height="200" src="https://i.ibb.co/HnWSsXJ/ilogo.png"/>
+</p>
+
+<div align="center">
 
  <a href="https://www.npmjs.com/package/shardjs">![GitHub package.json version](https://img.shields.io/github/package-json/v/AnthonyQY/shardjs)</a>
  <a href="https://www.npmjs.com/package/shardjs">![npm](https://img.shields.io/npm/v/shardjs)</a>
@@ -7,7 +11,9 @@
  
 </div>
 
+# About
 A tiny NPM package for splitting and recombining data.
+
 ## Installation
 ```bash
 npm i shardjs
