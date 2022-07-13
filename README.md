@@ -63,3 +63,5 @@ var shards = shardify(file, 3, "MODE_DIVIDE", "text/plain")
 
 var blob = blobify(shards, "text/plain")
 ```
+## Attributions
+<a href="https://www.flaticon.com/free-icons/space" title="space icons">Space icons created by Smashicons - Flaticon</a>
